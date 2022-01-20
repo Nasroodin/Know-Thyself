@@ -1,0 +1,44 @@
+body{
+  background-color: #F9F9F9;
+  color:#0F0E0E;
+}
+
+
+h1{
+  text-align: center;
+  font-family: 'Adamina', serif;
+  color:#0F0E0E;
+}
+
+h2{
+  margin-bottom: 0;
+
+}
+
+a{
+  text-decoration: none;
+  color: #0F0E0E;
+}
+
+a:hover{
+  text-decoration:none;
+    color:#DD4A48;
+}
+
+hr{
+  border-style: none;
+  width: 10%;
+  border-top: dotted;
+  border-color: #0F0E0E;
+  border-left-width: 10px;
+}
+
+
+.books{
+  text-align: center;
+font-family: 'Gentium Book Basic', serif;
+}
+
+.links{
+
+}
