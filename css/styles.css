@@ -1,7 +1,7 @@
 body{
   background-color: #F9F9F9;
   color:#0F0E0E;
-  font-size: 200%;
+  font-size: 150%;
 }
 
 
@@ -12,6 +12,7 @@ h1{
   font-size: 300%;
   text-decoration:underline;
   width: auto;
+  margin:auto;
 }
 
 h2{
@@ -39,6 +40,9 @@ hr{
   border-left-width: 10px;
 }
 
+.header{
+  position: fixed;
+}
 
 .books{
   text-align: center;
@@ -46,6 +50,25 @@ font-family: 'Gentium Book Basic', serif;
 }
 
 .record-labels{
+  text-align: center;
+font-family: 'Gentium Book Basic', serif;
+margin-top: 50px;
+}
+
+.books-image{
+  position: relative;
+
+}
+
+.records-image{
+  position: relative;
+}
+
+.artists-image{
+  position: relative;
+}
+
+.artists{
   text-align: center;
 font-family: 'Gentium Book Basic', serif;
 margin-top: 50px;
