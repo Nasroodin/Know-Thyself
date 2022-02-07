@@ -1,23 +1,23 @@
 body {
-  background-color: #F7F7F7;
-  color: #0F0E0E;
+  background-color: #EEEBDD;
+  color: #CE1212;
   font-size: 150%;
   text-align: center;
   margin: 0;
-
 }
 
 h1 {
   text-align: center;
   font-family: 'Gentium Book Basic', serif;
-  color: #0F0E0E;
-  margin: 25px auto 30px;
-  text-decoration: underline;
+  color: #CE1212;
+  margin: 50px auto 100px;
+  vertical-align: middle;
 }
 
 h2 {
   margin: 0;
   text-decoration: underline;
+  color: #CE1212;
 }
 
 a {
@@ -28,7 +28,7 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: #DD4A48;
+  color: #CE1212;
 }
 
 hr {
@@ -41,49 +41,38 @@ hr {
 
 .header {
   text-align: center;
-  margin: 0 auto 50px;
-
+  margin: 0 auto 100;
 }
 
 .all-links {
   background-color: #FF6464;
 }
 
-
-
 .books {
   text-align: center;
   vertical-align: middle;
   font-family: 'Gentium Book Basic', serif;
-
-
   width: 25%;
-  height:700px;
+  height: 700px;
   display: inline-block;
 }
 
 .records {
   text-align: center;
   font-family: 'Gentium Book Basic', serif;
-
   vertical-align: middle;
-
   width: 25%;
-  height:700px;
+  height: 700px;
   display: inline-block;
-
 }
 
 .artists {
   text-align: center;
   font-family: 'Gentium Book Basic', serif;
-
   vertical-align: middle;
-
   width: 25%;
-  height:700px;;
+  height: 700px;
   display: inline-block;
-
 }
 
 .books-image {
@@ -91,10 +80,10 @@ hr {
   margin-bottom: 0;
 }
 
-.records-image{
-  width:25%;
+.records-image {
+  width: 25%;
 }
 
-.art-image{
-  width:25%;
+.art-image {
+  width: 25%;
 }
