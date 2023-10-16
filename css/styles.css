@@ -84,6 +84,15 @@ hr {
   display: inline-block;
 }
 
+.tabletop {
+  text-align: center;
+  font-family: 'Gentium Book Basic', serif;
+  vertical-align: middle;
+  width: 15%;
+  height: 700px;
+  display: inline-block;
+}
+
 .books-image {
   width: 25%;
   margin-bottom: 0;
@@ -98,5 +107,9 @@ hr {
 }
 
 .furniture-image {
+  width:25%;
+}
+
+.tabletop-image {
   width:25%;
 }
